@@ -1,0 +1,1500 @@
+FredJones           1    Personal            1.00 Administration      
+FredJones           1    Business            2.00 Administration      
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+FredJones           1    Annual Vacation     8.00 Administration      
+FredJones           1    Sickness            1.50 Administration      
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                         Personal            0.00                     
+                         Business            0.00                     
+                         Marriage            0.00                     
+                         Pregnancy           0.00                     
+                         Annual Vacation     0.00                     
+                         Sickness            0.00                     
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      

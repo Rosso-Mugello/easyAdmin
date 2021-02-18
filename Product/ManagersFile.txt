@@ -1,0 +1,10 @@
+FredJones           Administration 123456         
+AliceWander         Inventory      023123         
+BrianBerk           Sales          123456         
+HuitingChen         Storage        123123         
+                                                  
+                                                  
+ManagerTest         Quality Control123            
+                                                  
+                                                  
+                                                  
